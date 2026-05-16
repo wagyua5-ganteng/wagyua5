@@ -1,0 +1,24 @@
+{
+  "name": "api_express",
+  "version": "1.0.0",
+  "description": "Project API berbasi NodeJS + API",
+  "keywords": [
+    "API",
+    "Express",
+    "NodeJS",
+    "Back",
+    "End"
+  ],
+  "license": "ISC",
+  "author": "Anshori Aris",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.3"
+  }
+}
